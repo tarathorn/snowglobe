@@ -1,0 +1,14 @@
+/Player off
+/Canvas off
+GM Sleep 1
+/effects on
+GM Sleep 1
+GM Sleep 1
+/Canvas on
+GM Sleep 2
+/Player on
+GM Sleep 2
+/effects off
+GM Sleep 5
+/Canvas off
+
